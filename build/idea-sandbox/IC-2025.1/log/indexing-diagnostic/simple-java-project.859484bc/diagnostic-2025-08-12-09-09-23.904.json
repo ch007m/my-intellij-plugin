@@ -1,0 +1,51 @@
+{
+  "appInfo" : {
+    "build" : "251.23774.435",
+    "buildDate" : "2025-04-14T15:00:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2025-08-12T07:09:23.904672Z",
+    "os" : "macOS 15.6",
+    "runtime" : "JetBrains s.r.o. 21.0.6 21.0.6+9-b895.109"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "simple-java-project",
+    "times" : {
+      "scanningIds" : [ ],
+      "contentLoadingVisibleTime" : 0,
+      "retrievingChangedDuringIndexingFilesTime" : 18583,
+      "separateApplyingIndexesVisibleTime" : 0,
+      "updatingStart" : "2025-08-12T07:09:23.857777Z",
+      "updatingEnd" : "2025-08-12T07:09:23.858411042Z",
+      "totalWallTimeWithPauses" : 634042,
+      "wallTimeOnPause" : 0,
+      "isCancelled" : false,
+      "dumbModeStart" : "2025-08-12T07:09:23.857777Z",
+      "dumbWallTimeWithPauses" : 634042,
+      "dumbWallTimeWithoutPauses" : 634042,
+      "totalWallTimeWithoutPauses" : 634042
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 0,
+      "numberOfNothingToWriteFiles" : 0
+    },
+    "totalStatsPerFileType" : [ ],
+    "totalStatsPerBaseLanguage" : [ ],
+    "totalStatsPerIndexer" : [ ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 18583
+    },
+    "fileProviderStatistics" : [ ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

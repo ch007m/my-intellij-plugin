@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "251.23774.435",
+    "buildDate" : "2025-04-14T15:00:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2025-08-12T07:09:23.912741Z",
+    "os" : "macOS 15.6",
+    "runtime" : "JetBrains s.r.o. 21.0.6 21.0.6+9-b895.109"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "simple-java-project",
+    "times" : {
+      "scanningReason" : "changes in: \"Module 'untitled' (java, java, resources)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 3,
+      "creatingIteratorsTime" : 0,
+      "concurrentHandlingWallTimeWithoutPauses" : 0,
+      "concurrentHandlingWallTimeWithPauses" : 0,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 2291417,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 296708,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 1681750,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 0,
+      "dumbModeStart" : "2025-08-12T07:09:23.843Z",
+      "dumbWallTimeWithPauses" : 13443375,
+      "dumbWallTimeWithoutPauses" : 13443375,
+      "updatingStart" : "2025-08-12T07:09:23.842883Z",
+      "updatingEnd" : "2025-08-12T07:09:23.856443375Z",
+      "totalWallTimeWithPauses" : 13560375,
+      "wallTimeOnPause" : 215000,
+      "isCancelled" : false,
+      "totalWallTimeWithoutPauses" : 13345375
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 1,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'untitled' (java, java, resources)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 747125,
+      "totalOneThreadTimeWithPauses" : 2291417,
+      "iterationAndScannersApplicationTime" : 296708,
+      "filesCheckTime" : 1681750,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

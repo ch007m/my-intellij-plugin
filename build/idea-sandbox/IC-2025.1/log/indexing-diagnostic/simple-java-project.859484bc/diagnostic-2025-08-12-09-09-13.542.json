@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "251.23774.435",
+    "buildDate" : "2025-04-14T15:00:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2025-08-12T07:09:13.542378Z",
+    "os" : "macOS 15.6",
+    "runtime" : "JetBrains s.r.o. 21.0.6 21.0.6+9-b895.109"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "simple-java-project",
+    "times" : {
+      "scanningReason" : "changes in: \"JDK ibm-21 /Library/Java/JavaVirtualMachines/ibm-semeru-open-21.jdk/Contents/Home\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 2,
+      "creatingIteratorsTime" : 0,
+      "concurrentHandlingWallTimeWithoutPauses" : 0,
+      "concurrentHandlingWallTimeWithPauses" : 0,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 2938659500,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 1343102708,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 1595410750,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 240890097,
+      "dumbModeStart" : "2025-08-12T07:09:10.585715Z",
+      "dumbWallTimeWithPauses" : 2956078666,
+      "dumbWallTimeWithoutPauses" : 2955840666,
+      "updatingStart" : "2025-08-12T07:09:10.585522Z",
+      "updatingEnd" : "2025-08-12T07:09:13.541793666Z",
+      "totalWallTimeWithPauses" : 2956271666,
+      "wallTimeOnPause" : 238000,
+      "isCancelled" : false,
+      "totalWallTimeWithoutPauses" : 2956033666
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 52443,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 52148
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "JDK ibm-21 /Library/Java/JavaVirtualMachines/ibm-semeru-open-21.jdk/Contents/Home",
+      "numberOfScannedFiles" : 52443,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 52148,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1323463991,
+      "totalOneThreadTimeWithPauses" : 2938659500,
+      "iterationAndScannersApplicationTime" : 1343102708,
+      "filesCheckTime" : 1595410750,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 320813195,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 240890097,
+      "roots" : [ ]
+    } ]
+  }
+}

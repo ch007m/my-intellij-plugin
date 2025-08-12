@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorCopy">
+      <i c="1" l="1754982842231" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1754983193480" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1754982536658" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" l="1754983198380" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1754982826680" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1754983204689" />
+    </e>
+  </component>
+</application>
